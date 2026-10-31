@@ -52,9 +52,4 @@ Tracking loss across 25 epochs confirming stable optimization and zero overfitti
 
 ---
 
-## 🚀 Getting Started & Local Installation
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/Tanusree1308/Brain-Tumor-Segmentation.git](https://github.com/Tanusree1308/Brain-Tumor-Segmentation.git)
-cd Brain-Tumor-Segmentation
